@@ -10,7 +10,7 @@ Generates a list of usernames and age based on user input. Uses state to manage 
 
 ## Acknowledgements
 
- - [Udemy course used to create the project] https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn)
+ - [Udemy course used to create the project] https://www.udemy.com/course/react-the-complete-guide-incl-redux)
  
 ## Installation
 
